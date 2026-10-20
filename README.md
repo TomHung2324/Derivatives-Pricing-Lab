@@ -101,7 +101,7 @@ A pinned environment file and end-to-end reproduction script may be added in a f
 
 ## Research report and attribution
 
-The full **FN6808 Derivative Securities course project report** contains methodology, derivations, diagnostics, additional figures, Asian-option results, references, and reproducibility details.
+The full report contains methodology, derivations, diagnostics, additional figures, Asian-option results, references, and reproducibility details.
 
 **[View the complete report](Conclusion.pdf)**
 
