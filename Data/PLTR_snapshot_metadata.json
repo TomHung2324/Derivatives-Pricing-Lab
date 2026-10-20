@@ -1,0 +1,10 @@
+{
+    "ticker":"PLTR",
+    "expiration":"2027-01-15",
+    "source":"Yahoo Finance via yfinance",
+    "spot_reference":198.72,
+    "spot_reference_date":"2026-10-08",
+    "option_quote_timestamp":"Unknown",
+    "calls_count":73,
+    "puts_count":73
+}
