@@ -1,0 +1,13 @@
+# Core numerical analysis and data processing
+numpy
+pandas
+scipy
+matplotlib
+
+# Market data access and volatility estimation
+yfinance
+arch
+
+# Jupyter notebook execution
+jupyterlab
+ipykernel
